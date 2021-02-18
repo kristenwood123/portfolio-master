@@ -1,0 +1,45 @@
+{
+  "name": "protfolio",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://binu42.netlify.com/",
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.7.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-github-calendar": "^2.0.2",
+    "react-lazy-load-image-component": "^1.5.1",
+    "react-scripts": "4.0.2",
+    "react-scroll": "^1.8.1",
+    "react-tooltip": "^4.2.14",
+    "react-vertical-timeline-component": "^3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build && cp build/index.html build/404.html",
+    "netlify": "npm run build && netlify deploy --dir build && netlify deploy --prod --dir build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
