@@ -182,7 +182,7 @@ function About() {
               </ListItemAvatar>
               <ListItemText
                 primary='Interests'
-                secondary='Coding, Traveling, Working Out,
+                secondary='Coding, Working Out,
                 Reading'
               />
             </ListItem>
