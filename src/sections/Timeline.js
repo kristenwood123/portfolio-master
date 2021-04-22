@@ -33,23 +33,6 @@ function Timeline() {
           subtitle={<>BSEB, 11<sup>th</sup> - 12<sup>th</sup></>}
           description={<>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate rerum facere aliquam voluptatem perspiciatis asperiores unde suscipit, dicta commodi officiis dolore, quos reprehenderit velit libero aliquid a illum nesciunt totam.</>}
         />
-        <TimelineElement
-          date='2018 - 2019'
-          icon={<SettingsRounded />}
-          title="JEE Preparation"
-          description={<>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam cum quasi totam sed tempora eveniet beatae quaerat veniam soluta odio, accusamus eum quis illo ut odit, impedit, eos fugit nesciunt?</>}
-        />
-        <TimelineElement
-          date='1st Aug 2018 - present'
-          icon={<NewReleasesRounded />}
-          title="xxxxx yyyy college, abc, xxx, India"
-          subtitle={<>Tustin, CA</>}
-          description={<>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga architecto est, iusto voluptatem cupiditate harum autem magni iste. Molestiae autem voluptas labore ducimus! Eos magnam earum, numquam eligendi cupiditate laborum.</>}
-        />
-        <TimelineElement
-          icon={<LocalLibraryRounded />}
-          onlyIcon={true}
-        />
       </VerticalTimeline>
     </div>
   );
