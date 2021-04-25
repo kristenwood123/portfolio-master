@@ -14,14 +14,14 @@ const projects = [
   },
   {
     id: 1,
-    name: 'B-bay',
+    name: 'API-employee-directory',
     description:
       'Website to buy products online, Admin panel is created for the root user, JWT Authentications, Strip is used for online payments.',
     recommended: true,
     image:
-      'https://res.cloudinary.com/dykt1kcdk/image/upload/v1597518807/portfolio/Screenshot_from_2020-08-16_00-30-29_ew4zo3.jpg',
-    code: 'https://github.com/Binu42/B-bay',
-    site: 'https://b-bay.now.sh/',
+      'https://res.cloudinary.com/dgktwkj2g/image/upload/v1619317931/employee.screenshot_j4b77y.png',
+    code: 'https://github.com/kristenwood123/API-employeeDirectory-TTH.git',
+    site: 'https://employee-search-api.netlify.app/',
     tech: ['Next.js', 'mongoDB', 'semantic'],
   },
   {
