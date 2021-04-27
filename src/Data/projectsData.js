@@ -16,7 +16,7 @@ const projects = [
     id: 1,
     name: 'API-employee-directory',
     description:
-      'Search for employees and find them easily by their name. Directly communicating with third party API.',
+      'Search for different employees and find them easily by their name. Directly communicating with third party API.',
     recommended: true,
     image:
       'https://res.cloudinary.com/dgktwkj2g/image/upload/v1619317931/employee.screenshot_j4b77y.png',
@@ -28,7 +28,7 @@ const projects = [
     id: 2,
     name: 'React Portfolio Site',
     description:
-      'Portfolio site displaying skills, experience and projects with React Hooks and responsive Navbar.',
+      'A mobile-first interactive portfolio site displaying skills, experience and projects utilizing React Hooks with a responsive Navbar.',
     recommended: true,
     site: 'https://react-portfolio-site111.netlify.app/',
     code: 'https://github.com/kristenwood123/portfolio-site-react.git',
