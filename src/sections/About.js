@@ -91,26 +91,11 @@ function About() {
   const classes = useStyles();
   return (
     <div id='about'>
-      <Box py={5} />
+      {/* <Box py={2} /> */}
       <SectionHeading headingName="ABOUT" />
       <Typography variant='subtitle1' style={{ textAlign: 'justify' }}>
-        {/* I am currently a {" "}
-        <b className={classes.secondaryText}>
-          final year Computer Science
-         </b> {" "}
-         undergraduate at{' '}
-        <b>
-          <a
-            href='https://jssstuniv.in/'
-            target='_blank'
-            rel='noopener noreferrer'
-            className={classes.anchor}
-          >
-            JSS Science and Technology University
-          </a>
-        </b> */}
         I am a Team Treehouse Tech degree graduate 
-         I am passionate about building responsive and creating user friendly experiences across platforms. I have contributed to open source projects like .... I consider myself a lifelong learner who strives to be the best version of myself.
+         I am passionate about building responsive and creating user friendly experiences across platforms.I have contributed to open source projects like .... I consider myself a lifelong learner who strives to be the best version of myself.
       </Typography>
       <br />
 
