@@ -26,9 +26,9 @@ const projects = [
   },
     {
     id: 2,
-    name: 'React Portfolio Site showing skills, experience and projects with React Hooks and responsive Navbar.',
+    name: 'React Portfolio Site.',
     description:
-      'Portfolio site utilizing React hooks including a responsive Navbar',
+      'Portfolio site displaying skills, experience and projects with React Hooks and responsive Navbar.',
     recommended: true,
     site: 'https://react-portfolio-site111.netlify.app/',
     code: 'https://github.com/kristenwood123/portfolio-site-react.git',
