@@ -16,7 +16,7 @@ const projects = [
     id: 1,
     name: 'API-employee-directory',
     description:
-      'Search for employees and find them easily by their name. Directly communicating with third part API.',
+      'Search for employees and find them easily by their name. Directly communicating with third party API.',
     recommended: true,
     image:
       'https://res.cloudinary.com/dgktwkj2g/image/upload/v1619317931/employee.screenshot_j4b77y.png',
@@ -24,8 +24,20 @@ const projects = [
     site: 'https://employee-search-api.netlify.app/',
     tech: ['HTML', 'Javascript', 'CSS'],
   },
-  {
+    {
     id: 2,
+    name: 'React Portfolio Site showing skills, experience and projects with React Hooks and responsive Navbar.',
+    description:
+      'Portfolio site utilizing React hooks including a responsive Navbar',
+    recommended: true,
+    site: 'https://react-portfolio-site111.netlify.app/',
+    code: 'https://github.com/kristenwood123/portfolio-site-react.git',
+    image:
+      'https://res.cloudinary.com/dgktwkj2g/image/upload/v1619059379/React.screenshot_qhkto8.png',
+    tech: ['HTML', 'React.js', 'CSS'],
+  },
+  {
+    id: 3,
     name: 'Chart Dashboard',
     description:
       'Interactive dashboard utilizing SVG graphics and an interface that promotes interactivity and usability.',
@@ -35,18 +47,6 @@ const projects = [
     code: 'https://github.com/kristenwood123/Dashboard-webApp-TTH.git',
     site: 'https://dashboard-chart-webapp.netlify.app/',
     tech: ['HTML', 'JavaScript', 'Chart.js'],
-  },
-  {
-    id: 3,
-    name: 'React Portfolio Site',
-    description:
-      'Browser extension that performs analytics, provides insights, the sentiment of Keyword, and searches for keyword for YouTube videos.',
-    recommended: true,
-    site: 'https://react-portfolio-site111.netlify.app/',
-    code: 'https://github.com/kristenwood123/portfolio-site-react.git',
-    image:
-      'https://res.cloudinary.com/dgktwkj2g/image/upload/v1619059379/React.screenshot_qhkto8.png',
-    tech: ['HTML', 'React', 'CSS'],
   },
   {
     id: 5,
