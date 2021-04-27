@@ -23,6 +23,7 @@ import {
   LocationOffRounded,
   LocationOnRounded,
   BlurOnRounded,
+  Looks,
 } from '@material-ui/icons';
 import { makeStyles } from '@material-ui/core/styles';
 import GitHubCalendar from 'react-github-calendar';
@@ -109,7 +110,7 @@ function About() {
           </a>
         </b> */}
         I am a Team Treehouse Tech degree graduate 
-         I am passionate about building responsive and creating user friendly experiences across platforms. I have contributed to open source projects like .... I consider myself a lifelong learner who strives to become the best version of myself.
+         I am passionate about building responsive and creating user friendly experiences across platforms. I have contributed to open source projects like .... I consider myself a lifelong learner who strives to be the best version of myself.
       </Typography>
       <br />
 
@@ -155,10 +156,11 @@ function About() {
             <ListItem>
               <ListItemAvatar>
                 <Avatar className={classes.listItemAvatar}>
-                  <TodayRounded />
+                  {/* <TodayRounded /> */}
+                  <Looks/>
                 </Avatar>
               </ListItemAvatar>
-              <ListItemText primary='Age' secondary='22' />
+              <ListItemText primary='Age' secondary='30' />
             </ListItem>
             <ListItem>
               <ListItemAvatar>

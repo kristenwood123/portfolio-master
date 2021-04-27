@@ -26,7 +26,7 @@ const projects = [
   },
     {
     id: 2,
-    name: 'React Portfolio Site.',
+    name: 'React Portfolio Site',
     description:
       'Portfolio site displaying skills, experience and projects with React Hooks and responsive Navbar.',
     recommended: true,
