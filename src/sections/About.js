@@ -111,47 +111,8 @@ function About() {
         I am currently..... Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloremque quam sunt accusantium reiciendis mollitia voluptate eaque fugit vel ullam, laboriosam veritatis pariatur quibusdam, impedit quo quidem! Delectus debitis est distinctio. Necessitatibus provident dolorum dolore laudantium, optio, cum perspiciatis quas ullam consequatur qui omnis nesciunt culpa magnam quibusdam perferendis architecto placeat!
       </Typography>
       <br />
-      <Box my={2} />
-      <Grid container justify='center' style={{ textAlign: 'center' }}>
-        <Grid item xs={6} sm={6} md={3} style={{ padding: '5px' }}>
-          <div className={classes.icons}>
-            <SpeedRounded style={{ fontSize: '42px' }} />
-          </div>
-          <br />
-          <Typography variant='h5'>Fast</Typography>
-          <Typography variant='subtitle1' color='textSecondary'>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. In, distinctio.
-          </Typography>
-        </Grid>
-        <Grid item xs={6} sm={6} md={3} style={{ padding: '5px' }}>
-          <div className={classes.icons}>
-            <DevicesRounded style={{ fontSize: '42px' }} />
-          </div>
-          <Typography variant='h5'>Responsive</Typography>
-          <Typography variant='subtitle1' color='textSecondary'>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquam, est.
-          </Typography>
-        </Grid>
-        <Grid item xs={6} sm={6} md={3} style={{ padding: '5px' }}>
-          <div className={classes.icons}>
-            <EmojiObjectsRounded style={{ fontSize: '42px' }} />
-          </div>
-          <Typography variant='h5'>User Centered</Typography>
-          <Typography variant='subtitle1' color='textSecondary'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, soluta!
-          </Typography>
-        </Grid>
-        <Grid item xs={6} sm={6} md={3} style={{ padding: '5px' }}>
-          <div className={classes.icons}>
-            <TrendingUpRounded style={{ fontSize: '42px' }} />
-          </div>
-          <Typography variant='h5'>lorem51</Typography>
-          <Typography variant='subtitle1' color='textSecondary'>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Culpa, architecto.
-          </Typography>
-        </Grid>
-      </Grid>
-      <Box my={3} />
+
+      <Box mx={3} />
       <Grid container justify='center' id='basic-details'>
         <Grid item xs={12} sm={6} lg={5}>
           <List>
