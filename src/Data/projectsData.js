@@ -16,25 +16,25 @@ const projects = [
     id: 1,
     name: 'API-employee-directory',
     description:
-      'Website to buy products online, Admin panel is created for the root user, JWT Authentications, Strip is used for online payments.',
+      'Search for employees and find them easily by their name. Directly communicating with third part API.',
     recommended: true,
     image:
       'https://res.cloudinary.com/dgktwkj2g/image/upload/v1619317931/employee.screenshot_j4b77y.png',
     code: 'https://github.com/kristenwood123/API-employeeDirectory-TTH.git',
     site: 'https://employee-search-api.netlify.app/',
-    tech: ['Next.js', 'mongoDB', 'semantic'],
+    tech: ['HTML', 'Javascript', 'CSS'],
   },
   {
     id: 2,
     name: 'Chart Dashboard',
     description:
-      'A realtime live preview of Repository Readme can be created in which users can collaborate with other users.',
+      'Interactive dashboard utilizing SVG graphics and an interface that promotes interactivity and usability.',
     recommended: true,
     image:
       'https://res.cloudinary.com/dgktwkj2g/image/upload/v1619058735/Dashboard.screenshot_zqxt8l.png',
     code: 'https://github.com/kristenwood123/Dashboard-webApp-TTH.git',
     site: 'https://dashboard-chart-webapp.netlify.app/',
-    tech: ['HTML', 'Javascript', 'Chart.js'],
+    tech: ['HTML', 'JavaScript', 'Chart.js'],
   },
   {
     id: 3,
@@ -46,31 +46,31 @@ const projects = [
     code: 'https://github.com/kristenwood123/portfolio-site-react.git',
     image:
       'https://res.cloudinary.com/dgktwkj2g/image/upload/v1619059379/React.screenshot_qhkto8.png',
-    tech: ['HTML', 'CSS', 'React'],
+    tech: ['HTML', 'React', 'CSS'],
   },
   {
     id: 5,
     name: 'Interactive Photo Gallery',
     description:
-      'Story Book is an open-source tool for writing any kind of story. users are provided with all kinds of functionalities.',
+      'An interactive image gallery utilizing JavaScript to create a searchable gallery of photos.',
     recommended: false,
     image:
       'https://res.cloudinary.com/dgktwkj2g/image/upload/v1619059821/gallery.screenshot_rbwj7z.png',
     code: 'https://github.com/kristenwood123/interactive-photo-gallery-TTH.git',
     site: 'https://photo-gallery-vanillajs.netlify.app/',
-    tech: ['HTML', 'Javascript', 'CSS'],
+    tech: ['HTML', 'JavaScript', 'CSS'],
   },
   {
     id: 6,
     name: 'Wheel of Fortune',
     description:
-      'Web Application where students can sell, rent, or buy books or sports items. Authentication is done using bcrypt.',
+      'Browser version of Wheel of Fortune, a word guessing game. Use random phrases that players try to guess.',
     recommended: false,
     image:
       'https://res.cloudinary.com/dgktwkj2g/image/upload/v1619060224/wheel.screenshot_kwlrnb.png',
     code: 'https://github.com/kristenwood123/Js-GameShowApp-TTH.git',
     site: 'https://wheel-of-fortune-vanilla-js.netlify.app/',
-    tech: ['HTML', 'CSS', 'Javascript'],
+    tech: ['HTML', 'JavaScript', 'CSS'],
   },
   {
     id: 7,
