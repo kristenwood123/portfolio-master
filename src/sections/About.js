@@ -108,7 +108,8 @@ function About() {
             JSS Science and Technology University
           </a>
         </b> */}
-        I am currently..... Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloremque quam sunt accusantium reiciendis mollitia voluptate eaque fugit vel ullam, laboriosam veritatis pariatur quibusdam, impedit quo quidem! Delectus debitis est distinctio. Necessitatibus provident dolorum dolore laudantium, optio, cum perspiciatis quas ullam consequatur qui omnis nesciunt culpa magnam quibusdam perferendis architecto placeat!
+        I am a Team Treehouse Tech degree graduate 
+         I am passionate about building responsive and creating user friendly experiences across platforms. I have contributed to open source projects like .... I consider myself a lifelong learner who strives to become the best version of myself.
       </Typography>
       <br />
 
