@@ -149,7 +149,7 @@ function About() {
             </ListItem>
           </List>
         </Grid>
-        {/* <Grid item xs={12} sm={6} lg={5}>
+        <Grid item xs={12} sm={6} lg={5}>
           <List>
             <ListItem>
               <ListItemAvatar>
@@ -182,7 +182,7 @@ function About() {
               />
             </ListItem>
           </List>
-        </Grid> */}
+        </Grid>
       </Grid>
       <Box my={3} />
       <Grid container justify='center'>
