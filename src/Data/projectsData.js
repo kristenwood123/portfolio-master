@@ -1,19 +1,19 @@
 const projects = [
   {
-    id: 4,
+    id: 1,
     name: 'React Ecommerce Store',
     description:
       'Community to help web developers by providing them helpful resources and giving an experience of open source contribution.',
     recommended: false,
     new: true,
-    code: 'https://github.com/WebDevsCom/webDevsCom',
+    code: 'https://github.com/kristenwood123/next-app-crypto-api.git',
     site: 'http://webdevscom.github.io/',
     image:
-      'https://res.cloudinary.com/dykt1kcdk/image/upload/v1590418576/portfolio/Screenshot_from_2020-05-25_20-23-49_zwm3ik.png',
-    tech: ['React.js', 'Bulma', 'Github'],
+      'https://res.cloudinary.com/dgktwkj2g/image/upload/v1619568220/Screen_Shot_2021-04-27_at_4.47.13_PM_2_xxwejf.png',
+    tech: ['React.js', 'Next.js', 'Github'],
   },
   {
-    id: 1,
+    id: 3,
     name: 'API-employee-directory',
     description:
       'Search for different employees and find them easily by their name. Directly communicating with third party API.',
@@ -25,7 +25,7 @@ const projects = [
     tech: ['HTML', 'Javascript', 'CSS'],
   },
     {
-    id: 2,
+    id: 4,
     name: 'React Portfolio Site',
     description:
       'A mobile-first interactive portfolio site displaying skills, experience and projects utilizing React Hooks with a responsive Navbar.',
@@ -37,7 +37,7 @@ const projects = [
     tech: ['HTML', 'React.js', 'CSS'],
   },
   {
-    id: 3,
+    id: 5,
     name: 'Chart Dashboard',
     description:
       'Interactive dashboard utilizing SVG graphics and an interface that promotes interactivity and usability.',
@@ -49,7 +49,7 @@ const projects = [
     tech: ['HTML', 'JavaScript', 'Chart.js'],
   },
   {
-    id: 5,
+    id: 6,
     name: 'Interactive Photo Gallery',
     description:
       'An interactive image gallery utilizing JavaScript to create a searchable gallery of photos.',
@@ -61,7 +61,7 @@ const projects = [
     tech: ['HTML', 'JavaScript', 'CSS'],
   },
   {
-    id: 6,
+    id: 7,
     name: 'Wheel of Fortune',
     description:
       'Browser version of Wheel of Fortune, a word guessing game. Use random phrases that players try to guess.',
@@ -73,7 +73,7 @@ const projects = [
     tech: ['HTML', 'JavaScript', 'CSS'],
   },
   {
-    id: 7,
+    id: 8,
     name: 'Form',
     description:
       'Website to listen to songs, users are provided with functionalities like trending songs, songs by genre, languages, artists, etc.',
