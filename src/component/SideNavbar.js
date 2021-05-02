@@ -253,7 +253,7 @@ function SideNavbar(props) {
               <GitHub />
             </IconButton>
           </a>
-          <a href='https://www.linkedin.com/in/kristenwood123/' target='__blank'>
+          <a href='https://www.linkedin.com/in/kristenwood1/' target='__blank'>
             <IconButton className={classes.socialIcons}>
               <LinkedIn />
             </IconButton>
