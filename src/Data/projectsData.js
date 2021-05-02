@@ -1,7 +1,20 @@
 const projects = [
-  {
+    {
     id: 1,
-    name: 'React Ecommerce Store',
+    name: 'RSVP App',
+    description:
+      "Interactive, responsive & stateful SPA React app. Add yourself to the list, help slow the spread of covid by wearing a mask or share if you're vaccinated!",
+    recommended: false,
+    new: true,
+    code: 'https://github.com/kristenwood123/RSVP-react-app.git',
+    site: 'https://rsvp-beer-fest-react.netlify.app/',
+    image:
+      'https://res.cloudinary.com/dgktwkj2g/image/upload/v1619977907/rsvp_xtc1n8.png',
+    tech: ['React.js', 'Javascript', 'React Router'],
+  },
+  {
+    id: 2,
+    name: 'Next application',
     description:
       'Community to help web developers by providing them helpful resources and giving an experience of open source contribution.',
     recommended: false,
@@ -10,7 +23,7 @@ const projects = [
     site: 'http://webdevscom.github.io/',
     image:
       'https://res.cloudinary.com/dgktwkj2g/image/upload/v1619568220/Screen_Shot_2021-04-27_at_4.47.13_PM_2_xxwejf.png',
-    tech: ['React.js', 'Next.js', 'Github'],
+    tech: ['React.js', 'Next.js', 'API'],
   },
   {
     id: 3,
