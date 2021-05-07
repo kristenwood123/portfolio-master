@@ -128,7 +128,7 @@ function Contact() {
               <form
                 className={classes.root}
                 onSubmit={submitForm}
-                action='https://formspree.io/xnqowrod'
+                action='https://formspree.io/f/xyylkavr'
                 method='POST'
                 noValidate={false}
               >
