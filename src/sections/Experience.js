@@ -36,10 +36,9 @@ function Experience() {
             <div className={classes.experienceItem + ' pb-0'}>
               <h3>Kristen Woodward</h3>
               <p style={{ fontSize: '1rem' }}>
-                Innovative, Hardworking, Focused, and deadline-driven Front-End
+                I am innovative, hardworking, and focused Front-End
                 Developer with experience designing and developing a
-                dynamic web applications. Front-end Team Treehouse Tech graduate and
-                learning new things and getting more Experience each day.
+                dynamic web applications. I am a Team Treehouse Tech graduate and am learning new things every day.
               </p>
               <Button
                 component='a'

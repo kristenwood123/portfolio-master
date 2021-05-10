@@ -86,7 +86,7 @@ function About() {
       {/* <Box py={2} /> */}
       <SectionHeading headingName="ABOUT" />
       <Typography variant='subtitle1' style={{ textAlign: 'justify' }}>
-        I am a Team Treehouse Tech degree graduate and I am passionate about building responsive and creating user friendly experiences across platforms. I consider myself a lifelong learner who strives to be the best version of myself.
+        I am a self-taught, Front-End developer and Team Treehouse Tech degree graduate. I am passionate about building responsive and creating user friendly experiences across platforms. I consider myself a lifelong learner who strives to be the best version of myself. 
       </Typography>
       <br />
 

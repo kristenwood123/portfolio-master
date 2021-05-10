@@ -23,7 +23,7 @@ const useStyles = makeStyles((theme) => ({
     width: '100%',
     height: '100%',
     position: 'relative',
-    borderBottom: '3px solid blue',
+    borderBottom: '3px solid #120059',
     margin: '10px auto',
     display: 'flex',
     flexDirection: 'column',
