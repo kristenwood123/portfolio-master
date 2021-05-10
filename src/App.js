@@ -78,7 +78,7 @@ function App(props) {
           <Projects />
           <Experience />
           <Skills />
-          <TimeLine />
+          {/* <TimeLine /> */}
           <Contact />
         </>
       </SideNavLayout>

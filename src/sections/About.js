@@ -12,18 +12,10 @@ import {
   ListItemAvatar,
 } from '@material-ui/core';
 import {
-  SpeedRounded,
-  DevicesRounded,
-  EmojiObjectsRounded,
   Visibility,
-  TrendingUpRounded,
   SchoolTwoTone,
-  TodayRounded,
-  LanguageRounded,
-  LocationOffRounded,
   LocationOnRounded,
   BlurOnRounded,
-  Looks,
 } from '@material-ui/icons';
 import { makeStyles } from '@material-ui/core/styles';
 import GitHubCalendar from 'react-github-calendar';
@@ -94,8 +86,7 @@ function About() {
       {/* <Box py={2} /> */}
       <SectionHeading headingName="ABOUT" />
       <Typography variant='subtitle1' style={{ textAlign: 'justify' }}>
-        I am a Team Treehouse Tech degree graduate 
-         I am passionate about building responsive and creating user friendly experiences across platforms.I have contributed to open source projects like .... I consider myself a lifelong learner who strives to be the best version of myself.
+        I am a Team Treehouse Tech degree graduate and I am passionate about building responsive and creating user friendly experiences across platforms. I consider myself a lifelong learner who strives to be the best version of myself.
       </Typography>
       <br />
 
@@ -136,41 +127,7 @@ function About() {
             </ListItem>
           </List>
         </Grid>
-        <Grid item xs={12} sm={6} lg={5}>
-          <List>
-            <ListItem>
-              <ListItemAvatar>
-                <Avatar className={classes.listItemAvatar}>
-                  {/* <TodayRounded /> */}
-                  <Looks/>
-                </Avatar>
-              </ListItemAvatar>
-              <ListItemText primary='Age' secondary='30' />
-            </ListItem>
-            <ListItem>
-              <ListItemAvatar>
-                <Avatar className={classes.listItemAvatar}>
-                  <LocationOffRounded />
-                </Avatar>
-              </ListItemAvatar>
-              <ListItemText
-                primary='Native place'
-                secondary='abc, xyz, India'
-              />
-            </ListItem>
-            <ListItem>
-              <ListItemAvatar>
-                <Avatar className={classes.listItemAvatar}>
-                  <LanguageRounded />
-                </Avatar>
-              </ListItemAvatar>
-              <ListItemText
-                primary='Langauges'
-                secondary='English, Hindi'
-              />
-            </ListItem>
-          </List>
-        </Grid>
+       
       </Grid>
       <Box my={3} />
       <Grid container justify='center'>

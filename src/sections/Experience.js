@@ -1,6 +1,5 @@
 import React from 'react';
 import { Box, Grid, Button, makeStyles } from '@material-ui/core';
-import { LocationOnRounded } from '@material-ui/icons';
 import SectionHeading from '../component/SectionHeading';
 
 const useStyles = makeStyles((theme) => ({
@@ -35,13 +34,12 @@ function Experience() {
           <Grid item xs={12} sm={12} md={6} lg={6}>
             <h2 className='experience-title'>Summary</h2>
             <div className={classes.experienceItem + ' pb-0'}>
-              <h3>kristen woodward</h3>
+              <h3>Kristen Woodward</h3>
               <p style={{ fontSize: '1rem' }}>
-                Innovative, Hardworking, Focused, and deadline-driven Full-Stack
-                Developer with 1+ years of experience designing and developing a
-                user-centered Dynamic website to solving various kinds of
-                problems from initial concept to a final, polished deliverable.
-                Learning new things and getting more Experience each day.
+                Innovative, Hardworking, Focused, and deadline-driven Front-End
+                Developer with experience designing and developing a
+                dynamic web applications. Front-end Team Treehouse Tech graduate and
+                learning new things and getting more Experience each day.
               </p>
               <Button
                 component='a'
@@ -54,57 +52,31 @@ function Experience() {
               </Button>
             </div>
 
-            <h2 className='experience-title'>Life Experience</h2>
+            <h2 className='experience-title'>Recent Job History</h2>
             <div className={classes.experienceItem}>
-              <h3>Developer Student Club (DSC)</h3>
+              <h3>Irvine Police Department - Police Officer</h3>
               <h4>
-                15<sup>th</sup> september 2019 - Oct 2020
+                March 2019 - January 2021
               </h4>
               <ul style={{ fontSize: '1rem' }}>
                 <li>
-                  Developed web application focused on creating an academic
-                  database for CS department professors.
+                  Served as a patrol officer and was deeply commited to community-oriented policing and protecting citizens through rapid emergency response.
                 </li>
                 <li>
-                  Created and Maintaining club web application{' '}
-                  <a href='https://dscjssstu.netlify.com/' target='__blank'>
-                    DSCJSSSTU website
-                  </a>
-                </li>
+                 Academy graduate of Orange County Sheriff's Academy at the most challenging stress academy on the West Coast.
+                 </li>
               </ul>
             </div>
             <div className={classes.experienceItem}>
-              <h3>Linux Campus Club (LCC)</h3>
-              <h4>Dual Booting Session (Volunteer)</h4>
-              <p style={{ fontSize: '1rem' }}>
-                Helped Juniors in Dual Booting their Laptop.
-              </p>
-              <h4>Python Session (Volunteer)</h4>
-              <p style={{ fontSize: '1rem' }}>
-                <em>Python session was 4 Days long of 2hrs each Day.</em> On the
-                last day session, I taught them about Exception Handling and
-                OOPs concepts.
-              </p>
-            </div>
-            <h2 className='experience-title'>Achievements</h2>
-            <div className={classes.experienceItem}>
+              <h3>Stark - Personal Trainer/Nutrition Specialist</h3>
+              <h4>March 2017 - Feb 2019</h4>
               <ul style={{ fontSize: '1rem' }}>
-                {/* <li>
-                  secured a rank in top 2% in JEE Advance out of 12 lakhs
-                  students who appeared for JEE Main 2017.
-                </li> */}
-                <li>Winner, WebHooks Competition, Sept 2019.</li>
                 <li>
-                  my team pushToMaster was selected as a finalist in Onload 2.0.
-                  hackathon, VVCE, Mysore, Karnataka.{' '}
-                  <a
-                    href='https://drive.google.com/file/d/1BouzgI6lTycUGKzn6agWEPW7_ew0D9TO/view?usp=sharing'
-                    target='_blank'
-                    rel='noopener noreferrer'
-                  >
-                    see certificate
-                  </a>
+                  Assisted clients with personalized training programs and nutritional plans to achieve exceptional results.
                 </li>
+                <li>
+                 Created and provided all of Stark's clientele with individualized nutrition plans and adapted them accordingly. 
+                 </li>
               </ul>
             </div>
           </Grid>

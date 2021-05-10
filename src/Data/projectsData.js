@@ -3,7 +3,7 @@ const projects = [
     id: 1,
     name: 'React Ecommerce App',
     description:
-      "A progressive web app where users can shop for custom built watches. Utilizes React Router, Styled Components and React Bootstrap.",
+      "A full stack progressive web app where users can sign up, shop, checkout and pay. Firebase is the backend database which handle user authorization and Stripe API handles customer transactions. Utilizes React Bootstrap and Styled Components.",
     recommended: false,
     new: true,
     code: 'https://github.com/kristenwood123/ecommerce-react-store.git',
