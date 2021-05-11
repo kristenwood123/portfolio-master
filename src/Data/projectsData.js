@@ -29,11 +29,11 @@ const projects = [
     id: 3,
     name: 'Next application',
     description:
-      'Community to help web developers by providing them helpful resources and giving an experience of open source contribution.',
+      'Dynamic Bitcoin cryptocurrency finance price tracker app using React and Next JS. Utilizing crypto API to get the data and a search bar to filter through.',
     recommended: false,
     new: true,
     code: 'https://github.com/kristenwood123/next-app-crypto-api.git',
-    site: 'http://webdevscom.github.io/',
+    site: 'https://next-app-crypto-api-5gq7jgxpw-kristenwood123.vercel.app/',
     image:
       'https://res.cloudinary.com/dgktwkj2g/image/upload/v1619568220/Screen_Shot_2021-04-27_at_4.47.13_PM_2_xxwejf.png',
     tech: ['React.js', 'Next.js', 'API'],
