@@ -33,7 +33,7 @@ const projects = [
     recommended: false,
     new: true,
     code: 'https://github.com/kristenwood123/next-app-crypto-api.git',
-    site: 'https://next-app-crypto-api-5gq7jgxpw-kristenwood123.vercel.app/',
+    site: 'https://next-app-crypto-api.vercel.app/',
     image:
       'https://res.cloudinary.com/dgktwkj2g/image/upload/v1619568220/Screen_Shot_2021-04-27_at_4.47.13_PM_2_xxwejf.png',
     tech: ['React.js', 'Next.js', 'API'],
