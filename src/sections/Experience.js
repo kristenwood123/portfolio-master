@@ -71,7 +71,7 @@ function Experience() {
               <h4>March 2017 - Feb 2019</h4>
               <ul style={{ fontSize: '1rem' }}>
                 <li>
-                  Assisted clients with personalized training programs and nutritional plans to achieve exceptional results.
+                  Assisted clients with personalized training programs to maximize physical wellness. Educated clients about proper exercise technique as well as at home care to prevent injury. 
                 </li>
                 <li>
                  Created and provided all of Stark's clientele with individualized nutrition plans and adapted them accordingly. 

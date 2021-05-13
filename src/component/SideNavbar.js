@@ -73,7 +73,7 @@ const useStyles = makeStyles((theme) => ({
   },
   toolbar: theme.mixins.toolbar,
   drawerPaper: {
-    backgroundColor: theme.palette.type === 'dark' ? "#2c061f" : "#525252",
+    backgroundColor: theme.palette.type === 'dark' ? "#2c061f" : "#070d59",
     backgroundAttachment: 'fixed',
     color: '#fff',
     width: drawerWidth,
