@@ -59,7 +59,7 @@ function Experience() {
               </h4>
               <ul style={{ fontSize: '1rem' }}>
                 <li>
-                  Served as a patrol officer and was deeply commited to community-oriented policing and protecting citizens through rapid emergency response.
+                  Served as a patrol officer and was deeply committed to community-oriented policing and protecting citizens through rapid emergency response.
                 </li>
                 <li>
                  Academy graduate of Orange County Sheriff's Academy at the most challenging stress academy on the West Coast.
