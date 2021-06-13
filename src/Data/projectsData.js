@@ -40,18 +40,31 @@ const projects = [
   },
   {
     id: 4,
-    name: 'API-employee-directory',
+    name: 'Next application',
     description:
-      'Search for different employees and find them easily by their name. Directly communicating with third party API.',
+      'Dynamic Bitcoin cryptocurrency finance price tracker app using React and Next JS. Utilizing crypto API to get the data and a search bar to filter through.',
+    recommended: false,
+    new: true,
+    code: 'https://github.com/kristenwood123/next-app-crypto-api.git',
+    site: 'https://next-app-crypto-api.vercel.app/',
+    image:
+      'https://res.cloudinary.com/dgktwkj2g/image/upload/v1619568220/Screen_Shot_2021-04-27_at_4.47.13_PM_2_xxwejf.png',
+    tech: ['React.js', 'Next.js', 'API'],
+  },
+  {
+    id: 5,
+    name: 'React-API-Cocktails',
+    description:
+      'Search for different cocktails and find them easily by their name. Directly communicating with third party API.',
     recommended: true,
     image:
-      'https://res.cloudinary.com/dgktwkj2g/image/upload/v1619317931/employee.screenshot_j4b77y.png',
-    code: 'https://github.com/kristenwood123/API-employeeDirectory-TTH.git',
-    site: 'https://employee-search-api.netlify.app/',
-    tech: ['HTML', 'Javascript', 'CSS'],
+      'https://res.cloudinary.com/dgktwkj2g/image/upload/v1623613501/Screen_Shot_2021-06-13_at_12.40.10_PM_2_sky57j.png',
+    code: 'https://github.com/kristenwood123/cocktails-React-API',
+    site: 'https://react-api-cocktails.netlify.app/',
+    tech: ['HTML', 'React.js', 'CSS'],
   },
     {
-    id: 5,
+    id: 6,
     name: 'React Portfolio Site',
     description:
       'A mobile-first interactive portfolio site displaying skills, experience and projects utilizing React Hooks with a responsive Navbar.',
@@ -63,7 +76,7 @@ const projects = [
     tech: ['HTML', 'React.js', 'CSS'],
   },
   {
-    id: 6,
+    id: 7,
     name: 'Chart Dashboard',
     description:
       'Interactive dashboard utilizing SVG graphics and an interface that promotes interactivity and usability.',
@@ -75,7 +88,7 @@ const projects = [
     tech: ['HTML', 'JavaScript', 'Chart.js'],
   },
   {
-    id: 7,
+    id: 8,
     name: 'Interactive Photo Gallery',
     description:
       'An interactive image gallery utilizing JavaScript to create a searchable gallery of photos.',
@@ -87,7 +100,7 @@ const projects = [
     tech: ['HTML', 'JavaScript', 'CSS'],
   },
   {
-    id: 8,
+    id: 9,
     name: 'Wheel of Fortune',
     description:
       'Browser version of Wheel of Fortune, a word guessing game. Use random phrases that players try to guess.',
