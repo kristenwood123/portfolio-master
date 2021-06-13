@@ -40,19 +40,6 @@ const projects = [
   },
   {
     id: 4,
-    name: 'Next application',
-    description:
-      'Dynamic Bitcoin cryptocurrency finance price tracker app using React and Next JS. Utilizing crypto API to get the data and a search bar to filter through.',
-    recommended: false,
-    new: true,
-    code: 'https://github.com/kristenwood123/next-app-crypto-api.git',
-    site: 'https://next-app-crypto-api.vercel.app/',
-    image:
-      'https://res.cloudinary.com/dgktwkj2g/image/upload/v1619568220/Screen_Shot_2021-04-27_at_4.47.13_PM_2_xxwejf.png',
-    tech: ['React.js', 'Next.js', 'API'],
-  },
-  {
-    id: 5,
     name: 'React-API-Cocktails',
     description:
       'Search for different cocktails and find them easily by their name. Directly communicating with third party API.',
@@ -62,6 +49,18 @@ const projects = [
     code: 'https://github.com/kristenwood123/cocktails-React-API',
     site: 'https://react-api-cocktails.netlify.app/',
     tech: ['HTML', 'React.js', 'CSS'],
+  },
+    {
+    id: 5,
+    name: 'API-employee-directory',
+    description:
+      'Search for different employees and find them easily by their name. Directly communicating with third party API.',
+    recommended: true,
+    image:
+      'https://res.cloudinary.com/dgktwkj2g/image/upload/v1619317931/employee.screenshot_j4b77y.png',
+    code: 'https://github.com/kristenwood123/API-employeeDirectory-TTH.git',
+    site: 'https://employee-search-api.netlify.app/',
+    tech: ['HTML', 'Javascript', 'CSS'],
   },
     {
     id: 6,
