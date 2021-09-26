@@ -20,7 +20,7 @@ const projects = [
     recommended: false,
     new: true,
     code: 'https://github.com/kristenwood123/RSVP-react-app.git',
-    site: 'https://rsvp-beer-fest-react.netlify.app/',
+    site: 'https://rsvp-react-app.netlify.app/',
     image:
       'https://res.cloudinary.com/dgktwkj2g/image/upload/v1619977907/rsvp_xtc1n8.png',
     tech: ['React.js', 'Javascript', 'React Router'],
