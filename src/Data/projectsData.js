@@ -16,13 +16,13 @@ const projects = [
     id: 2,
     name: 'Chill Music App',
     description:
-      "Interactive, responsive & stateful React Music Player app. Listen to music, scroll through the library and pause play whenever you want!",
+      "Interactive, responsive & stateful React Music Player app. Listen to music, scroll through the library and pause, play, listen, whenever you want!",
     recommended: false,
     new: true,
     code: 'https://github.com/kristenwood123/music-player',
     site: 'https://react-chillhop-music-player.netlify.app/',
     image:
-      'https://res.cloudinary.com/dgktwkj2g/image/upload/v1634329436/Screen_Shot_2021-10-15_at_1.20.31_PM_ym49fl.png',
+      'https://res.cloudinary.com/dgktwkj2g/image/upload/v1634329773/Screen_Shot_2021-10-15_at_1.20.31_PM_xzfvil.png',
     tech: ['React.js', 'Javascript', 'Sass'],
   },
   {
