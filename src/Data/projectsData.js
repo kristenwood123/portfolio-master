@@ -22,7 +22,7 @@ const projects = [
     code: 'https://github.com/kristenwood123/music-player',
     site: 'https://react-chillhop-music-player.netlify.app/',
     image:
-      'https://res.cloudinary.com/dgktwkj2g/image/upload/v1634329773/Screen_Shot_2021-10-15_at_1.20.31_PM_xzfvil.png',
+      'https://res.cloudinary.com/dgktwkj2g/image/upload/v1634329982/Screen_Shot_2021-10-15_at_1.31.11_PM_idodru.png',
     tech: ['React.js', 'Javascript', 'Sass'],
   },
   {
