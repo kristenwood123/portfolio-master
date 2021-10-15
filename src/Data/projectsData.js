@@ -14,16 +14,16 @@ const projects = [
   },
     {
     id: 2,
-    name: 'RSVP App',
+    name: 'Chill Music App',
     description:
-      "Interactive, responsive & stateful SPA React app. Add yourself to the list, help slow the spread of covid by wearing a mask or share if you're vaccinated!",
+      "Interactive, responsive & stateful React Music Player app. Listen to music, scroll through the library and pause play whenever you want!",
     recommended: false,
     new: true,
-    code: 'https://github.com/kristenwood123/RSVP-react-app.git',
-    site: 'https://rsvp-react-app.netlify.app/',
+    code: 'https://github.com/kristenwood123/music-player',
+    site: 'https://react-chillhop-music-player.netlify.app/',
     image:
-      'https://res.cloudinary.com/dgktwkj2g/image/upload/v1619977907/rsvp_xtc1n8.png',
-    tech: ['React.js', 'Javascript', 'React Router'],
+      'https://res.cloudinary.com/dgktwkj2g/image/upload/v1634329436/Screen_Shot_2021-10-15_at_1.20.31_PM_ym49fl.png',
+    tech: ['React.js', 'Javascript', 'Sass'],
   },
   {
     id: 3,
