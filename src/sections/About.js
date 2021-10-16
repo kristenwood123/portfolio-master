@@ -133,7 +133,7 @@ function About() {
       <Grid container justify='center'>
         <Button
           component='a'
-          href='https://drive.google.com/file/d/1iq6I3J1WEQ4UXTzhnebOnrSHnLc7vE5T/view?usp=sharing'
+          href='https://drive.google.com/file/d/1RQsluakIIoeNncpEDFrXurMOYU9e2t2e/view?usp=sharing'
           target='_blank'
           variant='outlined'
           color='primary'
